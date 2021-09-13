@@ -8,5 +8,5 @@ spring:
       server:
         git:
           uri: https://github.com/orlandoKuanDev/config-wcp-data
-          searchPaths: config-data
-          cloneOnStart: true
+          basedir: target/config
+          default-label: main
