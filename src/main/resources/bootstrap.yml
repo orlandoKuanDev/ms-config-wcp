@@ -10,3 +10,4 @@ spring:
           uri: https://github.com/orlandoKuanDev/config-wcp-data
           basedir: target/config
           default-label: main
+          cloneOnStart: true
